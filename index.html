@@ -1,1 +1,63 @@
-Hello World
+---
+layout: default
+title: Michal Lukasik
+picture: i
+news:
+  -
+    > 
+      I am currently a research intern at Max Planck Institute for Software Systems in Kaiserslautern, Germany. I am working on machine learning models for social network analysis under supervision of <a href=http://www.mpi-sws.org/~manuelgr/index.html>Manuel Gomez-Rodriguez</a>.
+  -
+    >
+      During summer 2016 I was a Phd Intern in Google Research in New York. I was working on a natural language processing and machine learning project under supervision of <a href=http://www.rzens.com/>Richard Zens</a>.
+    
+---
+<div class="page-header">
+  <div class="row">
+    <div class="col-sm-12">
+      <h3>Michal Lukasik</h3>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-6">
+      <address>
+        PhD student<br/>
+        <a href="http://sheffield.ac.uk/">University of Sheffield</a><br/>
+      </address>
+    </div>
+    <div class="col-sm-4">
+      <a href="mailto:m.lukasik@sheffield.ac.uk"><span class="glyphicon glyphicon-envelope"></span></a> Email<br/>
+      <a href="https://scholar.google.co.uk/citations?hl=en&user=cLZLZCQAAAAJ">
+        <img src="img/ico/gs.png" alt=""/>
+      </a> Google Scholar<br/>
+      <a href="http://github.com/mlukasik">
+        <img src="img/ico/github_icon.png" alt=""/>
+      </a> Github
+    </div>
+  </div>
+</div>
+
+<p>
+I am a PhD student at the University of Sheffield, Department of Computer Science, working in the Natural Language Processing Research Group, under supervision of <a href="http://people.eng.unimelb.edu.au/tcohn/index.html" target="_blank">Trevor Cohn</a> and <a href="http://www.dcs.shef.ac.uk/~kalina/" target="_blank">Kalina Bontcheva</a>.<br />
+</p>
+<p>
+I am interested in Artificial Intelligence and its exciting applications of Natural Language Processing and Social Media Analysis. I am particularly interested in Machine Learning (neural networks, Gaussian Processes, point processes).
+</p>
+
+</p>
+
+
+<h4>News</h4>
+<ul>
+{% for item in page.news %}
+  <li>{{ item }}</li>
+{% endfor %}
+</ul>
+
+<h4>Selected Papers</h4>
+{% for post in site.papers %}
+  {% if post.selected %}
+    {% include paper.html paper=post %}
+  {% endif %}
+{% endfor %}
+
+
