@@ -118,19 +118,6 @@ papers:
   - layout: paper
     paper-type: inproceedings
     selected: no
-    year: 2012
-    img: das12
-    title: Evaluation of Features for Author Name Disambiguation Using Linear Support Vector Machines
-    authors: Piotr Jan Dendek, Lukasz Bolikowski, Michal Lukasik
-    booktitle: Document Analysis Systems, DAS
-    booktitle-url: http://www.ict.griffith.edu.au/das2012/
-    doc-url: http://ieeexplore.ieee.org/document/6195410/?reload=true
-    venue: conference
-    abstract: >
-      Author name disambiguation allows to distinguish between two or more authors sharing the same name. In a previous paper, we have proposed a name disambiguation framework in which for each author name in each article we build a context consisting of classification codes, bibliographic references, co-authors, etc. Then, by pair wise comparison of contexts, we have been grouping contributions likely referring to the same people. In this paper we examine which elements of the context are most effective in author name disambiguation. We employ linear Support Vector Machines (SVM) to find the most influential features
-  - layout: paper
-    paper-type: inproceedings
-    selected: no
     year: 2013
     img: springer13
     title: Hierarchical, Multi-label Classification of Scholarly Publications Modifications of ML-KNN Algorithm
@@ -142,3 +129,16 @@ papers:
     code: https://github.com/mlukasik/tmlknn
     abstract: >
       One of the common problems when dealing with digital libraries is lack of classification codes in some of the documents. In the following publication we deal with this problem in a multi-label, hierarchical case of Mathematics Subject Classification System. We develop modifications of ML-KNN algorithm and show how they improve results given by the algorithm on example of Springer textual data
+  - layout: paper
+    paper-type: inproceedings
+    selected: no
+    year: 2012
+    img: das12
+    title: Evaluation of Features for Author Name Disambiguation Using Linear Support Vector Machines
+    authors: Piotr Jan Dendek, Lukasz Bolikowski, Michal Lukasik
+    booktitle: Document Analysis Systems, DAS
+    booktitle-url: http://www.ict.griffith.edu.au/das2012/
+    doc-url: http://ieeexplore.ieee.org/document/6195410/?reload=true
+    venue: conference
+    abstract: >
+      Author name disambiguation allows to distinguish between two or more authors sharing the same name. In a previous paper, we have proposed a name disambiguation framework in which for each author name in each article we build a context consisting of classification codes, bibliographic references, co-authors, etc. Then, by pair wise comparison of contexts, we have been grouping contributions likely referring to the same people. In this paper we examine which elements of the context are most effective in author name disambiguation. We employ linear Support Vector Machines (SVM) to find the most influential features
