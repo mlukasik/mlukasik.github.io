@@ -98,7 +98,7 @@ papers:
     authors: Michal Lukasik, Srijith Prabhakaran Nair Kusumam, Trevor Cohn and Kalina Bontcheva
     booktitle: Proceedings of Empirical Methods of Natural Language Processing, EMNLP
     booktitle-url: http://www.emnlp2015.org/
-    doc-url: http://aclweb.org/anthology/D/D15/D15-1311.pdf
+    doc-url: http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP028.pdf
     venue: conference
     abstract: >
       Research on modeling time series text corpora has typically focused on predicting what text will come next, but less well studied is predicting when the next text event will occur. In this paper we address the latter case, framed as modeling continuous inter-arrival times under a log-Gaussian Cox process, a form of inhomogeneous Poisson process which captures the varying rate at which the tweets arrive over time. In an application to rumour modeling of tweets surrounding the 2014 Ferguson riots, we show how interarrival times between tweets can be accurately predicted, and that incorporating textual features further improves predictions. 
