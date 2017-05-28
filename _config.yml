@@ -12,10 +12,10 @@ papers:
     paper-type: inproceedings
     selected: yes
     year: 2017
-    img: coling2
+    img: aaai16
     title: Longitudinal Modeling of Social Media with Hawkes Process based on Users and Networks
     authors: P.K. Srijith, Michal Lukasik, Kalina Bontcheva and Trevor Cohn
-    booktitle: The IEEE/ACM International Conference on Social Networks Analysis and Mining (ASONAM 2017)
+    booktitle: The IEEE/ACM International Conference on Social Networks Analysis and Mining, ASONAM
     booktitle-url: http://asonam.cpsc.ucalgary.ca/2017/
     doc-url: http://asonam.cpsc.ucalgary.ca/2017/
     venue: conference
