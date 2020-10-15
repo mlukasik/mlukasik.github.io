@@ -10,6 +10,16 @@ papers:
   - layout: paper
     paper-type: inproceedings
     selected: yes
+    year: 2018
+    img: aaai16
+    title: Content Explorer: Recommending Novel Entities for a Document Writer
+    authors: Michal Lukasik, Richard Zens
+    booktitle: EMNLP 
+    doc-url: https://www.aclweb.org/anthology/D18-1374.pdf
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
     year: 2017
     img: aaai16
     title: Longitudinal Modeling of Social Media with Hawkes Process based on Users and Networks
