@@ -13,6 +13,15 @@ papers:
     selected: yes
     year: 2017
     img: aaai16
+    title: Text Segmentation by Cross Segment Attention
+    authors: Michal Lukasik, Boris Dadachev, Gonçalo Simões, Kishore Papineni
+    booktitle: EMNLP 2020
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2017
+    img: aaai16
     title: Longitudinal Modeling of Social Media with Hawkes Process based on Users and Networks
     authors: P.K. Srijith, Michal Lukasik, Kalina Bontcheva and Trevor Cohn
     booktitle: The IEEE/ACM International Conference on Social Networks Analysis and Mining, ASONAM
