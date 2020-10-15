@@ -1,52 +1,12 @@
 exclude: ['README.md']
 timezone: US/Eastern
 talks:
-  -
-    title: Convolution Kernels for Discriminative Learning from Streaming Text
+  - title: Convolution Kernels for Discriminative Learning from Streaming Text
     detail: Talk at AAAI 2016, Phoenix, Arizona.
     url: "http://staffwww.dcs.shef.ac.uk/people/M.Lukasik/pubs/aaai16presentation.pdf"
     img: "aaai.jpg"
     video: https://www.youtube.com/watch?v=tJyOeEkWNuU
 papers:
-  - layout: paper
-    paper-type: inproceedings
-    selected: yes
-    year: 2020
-    img: aaai16
-    title: Scaling Graph Neural Networks with Approximate PageRank
-    authors: Aleksandar Bojchevski, Johannes Klicpera, Bryan Perozzi, Amol Kapoor, Martin Blais, Benedek Rózemberczki, Michal Lukasik, Stephan Günnemann
-    booktitle: KDD 
-    venue: conference
-    doc-url: https://arxiv.org/pdf/2007.01570.pdf
-  - layout: paper
-    paper-type: inproceedings
-    selected: yes
-    year: 2020
-    img: aaai16
-    title: Semantic Label Smoothing for Sequence to Sequence Problems
-    authors: Michal Lukasik, Himanshu Jain, Aditya Krishna Menon, Seungyeon Kim, Srinadh Bhojanapalli, Felix Yu, Sanjiv Kumar
-    booktitle: EMNLP 
-    venue: conference
-  - layout: paper
-    paper-type: inproceedings
-    selected: yes
-    year: 2020
-    img: aaai16
-    title: Text Segmentation by Cross Segment Attention
-    authors: Michal Lukasik, Boris Dadachev, Gonçalo Simões, Kishore Papineni
-    doc-url: https://arxiv.org/pdf/2004.14535.pdf
-    booktitle: EMNLP 
-    venue: conference
-  - layout: paper
-    paper-type: inproceedings
-    selected: yes
-    year: 2020
-    img: aaai16
-    title: Does label smoothing mitigate label noise?
-    authors: Michal Lukasik, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar
-    doc-url: https://arxiv.org/pdf/2003.02819.pdf
-    booktitle: ICML 
-    venue: conference
   - layout: paper
     paper-type: inproceedings
     selected: yes
