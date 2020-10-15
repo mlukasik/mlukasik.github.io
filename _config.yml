@@ -15,6 +15,7 @@ papers:
     title: Content Explorer: Recommending Novel Entities for a Document Writer
     authors: Michal Lukasik, Richard Zens
     booktitle: EMNLP 
+    booktitle-url: http://asonam.cpsc.ucalgary.ca/2017/
     doc-url: https://www.aclweb.org/anthology/D18-1374.pdf
     venue: conference
     abstract: >
@@ -88,7 +89,7 @@ papers:
       The aim of this paper is to investigate suitable  evaluation  strategies  for  the  task  of word-level quality estimation of machine translation.    We  suggest  various  metrics to replace F1-score for the “BAD” class, which  is  currently  used  as  main  metric. We compare the metrics’ performance on real system outputs and synthetically generated datasets and suggest a reliable alternative to the F1-BAD score — the multiplication of F1-scores for different classes. Other  metrics  have  lower  discriminative power and are biased by unfair labellings.
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2016
     img: aaai16
     title: Convolution Kernels for Discriminative Learning from Streaming Text
@@ -101,7 +102,7 @@ papers:
       Time series modeling is an important problem with many applications in different domains. Here we consider discriminative  learning  from  time  series,  where  we  seek  to  predict an output response variable based on time series input. We develop a method based on convolution kernels to model discriminative learning over streams of text. Our method outperforms competitive baselines in three synthetic and two real datasets, rumour frequency modeling and popularity prediction tasks.
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2015
     img: D15-1311
     title: Classifying Tweet Level Judgements of Rumours in Social Media
@@ -115,7 +116,7 @@ papers:
       Social media is a rich source of rumours and  corresponding  community  reactions. Rumours  reflect  different  characteristics, some shared and some individual. We formulate  the  problem  of  classifying  tweet level  judgements  of  rumours  as  a  supervised learning task.  Both supervised and unsupervised domain adaptation are considered, in which tweets from a rumour are classified on the basis of other annotated rumours.  We demonstrate how multi-task learning helps achieve good results on rumours from the 2011 England riots.
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2015
     img: D15-1028
     title: Modeling Tweet Arrival Times using Log-Gaussian Cox Processes
@@ -128,7 +129,7 @@ papers:
       Research on modeling time series text corpora has typically focused on predicting what text will come next, but less well studied is predicting when the next text event will occur. In this paper we address the latter case, framed as modeling continuous inter-arrival times under a log-Gaussian Cox process, a form of inhomogeneous Poisson process which captures the varying rate at which the tweets arrive over time. In an application to rumour modeling of tweets surrounding the 2014 Ferguson riots, we show how interarrival times between tweets can be accurately predicted, and that incorporating textual features further improves predictions. 
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2015
     img: P15-2085
     title: Point process modelling of rumour dynamics in social media
