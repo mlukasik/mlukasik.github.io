@@ -17,6 +17,8 @@ papers:
     booktitle: EMNLP 
     doc-url: https://www.aclweb.org/anthology/D18-1374.pdf
     venue: conference
+    abstract: >
+      Content Explorer: Recommending Novel Entities for a Document Writer
   - layout: paper
     paper-type: inproceedings
     selected: yes
