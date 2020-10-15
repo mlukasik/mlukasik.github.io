@@ -11,11 +11,52 @@ papers:
   - layout: paper
     paper-type: inproceedings
     selected: yes
-    year: 2017
+    year: 2020
+    img: aaai16
+    title: Scaling Graph Neural Networks with Approximate PageRank
+    authors: Aleksandar Bojchevski, Johannes Klicpera, Bryan Perozzi, Amol Kapoor, Martin Blais, Benedek Rózemberczki, Michal Lukasik, Stephan Günnemann
+    booktitle: KDD 
+    venue: conference
+    doc-url: https://arxiv.org/pdf/2007.01570.pdf
+- layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2020
+    img: aaai16
+    title: Semantic Label Smoothing for Sequence to Sequence Problems
+    authors: Michal Lukasik, Himanshu Jain, Aditya Krishna Menon, Seungyeon Kim,
+  Srinadh Bhojanapalli, Felix Yu, Sanjiv Kumar
+    booktitle: EMNLP 
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2020
     img: aaai16
     title: Text Segmentation by Cross Segment Attention
     authors: Michal Lukasik, Boris Dadachev, Gonçalo Simões, Kishore Papineni
-    booktitle: EMNLP 2020
+    doc-url: https://arxiv.org/pdf/2004.14535.pdf
+    booktitle: EMNLP 
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2020
+    img: aaai16
+    title: Does label smoothing mitigate label noise?
+    authors: Michal Lukasik, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar
+    doc-url: https://arxiv.org/pdf/2003.02819.pdf
+    booktitle: ICML 
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2018
+    img: aaai16
+    title: Content Explorer: Recommending Novel Entities for a Document Writer
+    authors: Michal Lukasik, Richard Zens
+    doc-url: https://www.aclweb.org/anthology/D18-1374.pdf
+    booktitle: EMNLP 
     venue: conference
   - layout: paper
     paper-type: inproceedings
