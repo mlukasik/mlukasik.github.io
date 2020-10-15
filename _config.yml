@@ -24,8 +24,7 @@ papers:
     year: 2020
     img: aaai16
     title: Semantic Label Smoothing for Sequence to Sequence Problems
-    authors: Michal Lukasik, Himanshu Jain, Aditya Krishna Menon, Seungyeon Kim,
-  Srinadh Bhojanapalli, Felix Yu, Sanjiv Kumar
+    authors: Michal Lukasik, Himanshu Jain, Aditya Krishna Menon, Seungyeon Kim, Srinadh Bhojanapalli, Felix Yu, Sanjiv Kumar
     booktitle: EMNLP 
     venue: conference
   - layout: paper
