@@ -10,16 +10,13 @@ papers:
   - layout: paper
     paper-type: inproceedings
     selected: yes
-    year: 2018
+    year: 2020
     img: aaai16
-    title: Content Explorer: Recommending Novel Entities for a Document Writer
-    authors: Michal Lukasik, Richard Zens
-    booktitle: EMNLP 
-    booktitle-url: http://asonam.cpsc.ucalgary.ca/2017/
-    doc-url: https://www.aclweb.org/anthology/D18-1374.pdf
+    title: Scaling Graph Neural Networks with Approximate PageRank
+    authors: Aleksandar Bojchevski, Johannes Klicpera, Bryan Perozzi, Amol Kapoor, Martin Blais, Benedek Rózemberczki, Michal Lukasik, Stephan Günnemann
+    booktitle: KDD 
     venue: conference
-    abstract: >
-      Content Explorer: Recommending Novel Entities for a Document Writer
+    doc-url: https://arxiv.org/pdf/2007.01570.pdf
   - layout: paper
     paper-type: inproceedings
     selected: yes
