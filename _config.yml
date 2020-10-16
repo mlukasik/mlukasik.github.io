@@ -52,7 +52,7 @@ papers:
     selected: yes
     year: 2018
     img: aaai16
-    title: Content Explorer: Recommending Novel Entities for a Document Writer
+    title: Content Explorer: recommending entities to users
     authors: Michal Lukasik, Richard Zens
     booktitle: EMNLP 
     venue: conference
