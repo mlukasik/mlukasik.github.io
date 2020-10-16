@@ -49,6 +49,16 @@ papers:
     doc-url: https://arxiv.org/pdf/2007.01570.pdf
   - layout: paper
     paper-type: inproceedings
+    selected: yes
+    year: 2018
+    img: aaai16
+    title: Content Explorer: Recommending Novel Entities for a Document Writer
+    authors: Michal Lukasik, Richard Zens
+    booktitle: EMNLP 
+    venue: conference
+    doc-url: https://www.aclweb.org/anthology/D18-1374.pdf
+  - layout: paper
+    paper-type: inproceedings
     selected: no
     year: 2017
     img: aaai16
