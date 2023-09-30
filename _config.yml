@@ -13,7 +13,7 @@ papers:
     year: 2023
     img: aaai16
     title: ResMem, Learn what you can and memorize the rest
-    authors: Zitong Yang, Michal Lukasik, Vaishnavh Nagarajan, Zonglin Li, Ankit Singh Rawat, Manzil Zaheer, Aditya Krishna Menon, Sanjiv Kumar
+    authors: Zitong Yang, Michal Lukasik, Vaishnavh Nagarajan, Zonglin Li, Ankit Rawat, Manzil Zaheer, Aditya Menon, Sanjiv Kumar
     doc-url: https://arxiv.org/abs/2302.01576
     booktitle: NEURIPS 
     venue: conference
@@ -46,10 +46,10 @@ papers:
     authors: Michal Lukasik, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar
     doc-url: https://openreview.net/pdf?id=ph3AYXpwEb
     booktitle: TMLR 
-    venue: conference
+    venue: journal
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2020
     img: aaai16
     title: Semantic Label Smoothing for Sequence to Sequence Problems
@@ -59,7 +59,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2020
     img: aaai16
     title: Text Segmentation by Cross Segment Attention
@@ -69,7 +69,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2020
     img: aaai16
     title: Does label smoothing mitigate label noise?
@@ -79,7 +79,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2020
     img: aaai16
     title: Scaling Graph Neural Networks with Approximate PageRank
