@@ -10,6 +10,46 @@ papers:
   - layout: paper
     paper-type: inproceedings
     selected: yes
+    year: 2023
+    img: aaai16
+    title: ResMem: Learn what you can and memorize the rest
+    authors: Zitong Yang, Michal Lukasik, Vaishnavh Nagarajan, Zonglin Li, Ankit Singh Rawat, Manzil Zaheer, Aditya Krishna Menon, Sanjiv Kumar
+    doc-url: https://arxiv.org/abs/2302.01576
+    booktitle: NEURIPS 
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2023
+    img: aaai16
+    title: Large language models with controllable working memory
+    authors: Daliang Li, Ankit Singh Rawat, Manzil Zaheer, Xin Wang, Michal Lukasik, Andreas Veit, Felix Yu, Sanjiv Kumar
+    doc-url: https://aclanthology.org/2023.findings-acl.112/
+    booktitle: ACL (findings) 
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2023
+    img: aaai16
+    title: Robust distillation for worst-class performance: on the interplay between teacher and student objectives
+    authors: Serena Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon
+    doc-url: https://arxiv.org/abs/2010.07447
+    booktitle: UAI 
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2022
+    img: aaai16
+    title: Teacher's pet: understanding and mitigating biases in distillation 
+    authors: Michal Lukasik, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar
+    doc-url: https://openreview.net/pdf?id=ph3AYXpwEb
+    booktitle: TMLR 
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
     year: 2020
     img: aaai16
     title: Semantic Label Smoothing for Sequence to Sequence Problems
