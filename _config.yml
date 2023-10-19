@@ -40,6 +40,26 @@ papers:
   - layout: paper
     paper-type: inproceedings
     selected: yes
+    year: 2023
+    img: aaai16
+    title: What do larger image classifiers memorise?
+    authors: Michal Lukasik, Vaishnavh Nagarajan, Ankit Singh Rawat, Aditya Krishna Menon, Sanjiv Kumar
+    doc-url: https://arxiv.org/pdf/2310.05337
+    booktitle: arxiv 
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2023
+    img: aaai16
+    title: It's an Alignment, Not a Trade-off Revisiting Bias and Variance in Deep Models
+    authors: Lin Chen, Michal Lukasik, Wittawat Jitkrittum, Chong You, Sanjiv Kumar
+    doc-url: https://arxiv.org/abs/2310.09250
+    booktitle: arxiv 
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
     year: 2022
     img: aaai16
     title: Teacher's pet, understanding and mitigating biases in distillation 
