@@ -4,26 +4,8 @@ title: Michal Lukasik | Papers &amp; Talks
 picture: aaai
 ---
 <div class="page-header">
-  <h3>Papers & Talks</h3>
+  <h3>Publications</h3>
 </div>
-
-<h4>Talks</h4>
-
-{% for talk in site.talks %}
-<div class="media">
-  <a class="pull-left thumbnail" {%if talk.url %} href="{{ talk.url }}" {% endif %}>
-    <img class="media-object" src="img/talk/{{ talk.img }}" alt="">
-  </a>
-  <div class="media-body">
-    <strong>{{ talk.title }}</strong><br/>
-    {{ talk.detail }}
-    {% if talk.video %}<br/>
-      <a href="{{ talk.video }}"><span class="glyphicon glyphicon-film"></span></a> Video
-    {% endif %}
-  </div>
-</div>
-{% endfor %}
-
 
 <h4>Papers</h4>
 {% for post in site.papers %}
