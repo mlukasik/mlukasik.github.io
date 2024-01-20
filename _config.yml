@@ -10,6 +10,26 @@ papers:
   - layout: paper
     paper-type: inproceedings
     selected: yes
+    year: 2024
+    img: aaai16
+    title: "It's an Alignment, Not a Trade-off: Revisiting Bias and Variance in Deep Models"
+    authors: Lin Chen, Michal Lukasik, Wittawat Jitkrittum, Chong You, Sanjiv Kumar
+    doc-url: https://arxiv.org/abs/2310.09250
+    booktitle: ICLR 
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2024
+    img: aaai16
+    title: "Two-stage LLM Fine-tuning with Less Specialization and More Generalization"
+    authors: Yihan Wang, Si Si, Daliang Li, Michal Lukasik, Felix Yu, Cho-Jui Hsieh, Inderjit S Dhillon, Sanjiv Kumar
+    doc-url: https://arxiv.org/abs/2211.00635
+    booktitle: ICLR 
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
     year: 2023
     img: aaai16
     title: "ResMem: Learn what you can and memorize the rest"
@@ -45,16 +65,6 @@ papers:
     title: What do larger image classifiers memorise?
     authors: Michal Lukasik, Vaishnavh Nagarajan, Ankit Singh Rawat, Aditya Krishna Menon, Sanjiv Kumar
     doc-url: https://arxiv.org/pdf/2310.05337
-    booktitle: arxiv 
-    venue: conference
-  - layout: paper
-    paper-type: inproceedings
-    selected: yes
-    year: 2023
-    img: aaai16
-    title: "It's an Alignment, Not a Trade-off: Revisiting Bias and Variance in Deep Models"
-    authors: Lin Chen, Michal Lukasik, Wittawat Jitkrittum, Chong You, Sanjiv Kumar
-    doc-url: https://arxiv.org/abs/2310.09250
     booktitle: arxiv 
     venue: conference
   - layout: paper
