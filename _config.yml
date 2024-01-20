@@ -15,7 +15,7 @@ papers:
     title: "It's an Alignment, Not a Trade-off: Revisiting Bias and Variance in Deep Models"
     authors: Lin Chen, Michal Lukasik, Wittawat Jitkrittum, Chong You, Sanjiv Kumar
     doc-url: https://arxiv.org/abs/2310.09250
-    booktitle: ICLR (spotlight presentation, top 5% papers)
+    booktitle: ICLR (spotlight presentation)
     venue: conference
   - layout: paper
     paper-type: inproceedings
