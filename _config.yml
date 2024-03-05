@@ -59,7 +59,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2023
     img: aaai16
     title: What do larger image classifiers memorise?
@@ -69,7 +69,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2022
     img: aaai16
     title: "Teacher's pet: understanding and mitigating biases in distillation"
