@@ -9,6 +9,16 @@ talks:
 papers:
   - layout: paper
     paper-type: inproceedings
+    selected: no
+    year: 2024
+    img: aaai16
+    title: What do larger image classifiers memorise?
+    authors: Michal Lukasik, Vaishnavh Nagarajan, Ankit Singh Rawat, Aditya Krishna Menon, Sanjiv Kumar
+    doc-url: https://arxiv.org/pdf/2310.05337
+    booktitle: TMLR 
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
     selected: yes
     year: 2024
     img: aaai16
@@ -56,16 +66,6 @@ papers:
     authors: Serena Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, Michal Lukasik, Aditya Krishna Menon
     doc-url: https://arxiv.org/abs/2010.07447
     booktitle: UAI 
-    venue: conference
-  - layout: paper
-    paper-type: inproceedings
-    selected: no
-    year: 2023
-    img: aaai16
-    title: What do larger image classifiers memorise?
-    authors: Michal Lukasik, Vaishnavh Nagarajan, Ankit Singh Rawat, Aditya Krishna Menon, Sanjiv Kumar
-    doc-url: https://arxiv.org/pdf/2310.05337
-    booktitle: arxiv 
     venue: conference
   - layout: paper
     paper-type: inproceedings
