@@ -9,7 +9,7 @@ talks:
 papers:
   - layout: paper
     paper-type: inproceedings
-    selected: no
+    selected: yes
     year: 2024
     img: aaai16
     title: What do larger image classifiers memorise?
