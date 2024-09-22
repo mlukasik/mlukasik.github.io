@@ -12,6 +12,16 @@ papers:
     selected: yes
     year: 2024
     img: aaai16
+    title: Regression (and Scoring) Aware Inference with LLMs
+    authors: Michal Lukasik, Harikrishna Narasimhan, Aditya Krishna Menon, Felix Yu, Sanjiv Kumar
+    doc-url: https://arxiv.org/abs/2403.04182
+    booktitle: EMNLP (findings) 
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2024
+    img: aaai16
     title: What do larger image classifiers memorise?
     authors: Michal Lukasik, Vaishnavh Nagarajan, Ankit Singh Rawat, Aditya Krishna Menon, Sanjiv Kumar
     doc-url: https://arxiv.org/pdf/2310.05337
