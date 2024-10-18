@@ -49,7 +49,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2023
     img: aaai16
     title: "ResMem: Learn what you can and memorize the rest"
@@ -59,7 +59,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2023
     img: aaai16
     title: Large language models with controllable working memory
@@ -69,7 +69,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2023
     img: aaai16
     title: "Robust distillation for worst-class performance: on the interplay between teacher and student objectives"
