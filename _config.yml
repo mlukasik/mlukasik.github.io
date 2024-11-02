@@ -135,7 +135,7 @@ papers:
     title: Discourse-aware rumour stance classification in social media using sequential classifiers
     authors: Arkaitz Zubiaga, Elena Kochkina, Maria Liakata, Rob Procter, Michal Lukasik, Kalina Bontcheva, Trevor Cohn, Isabelle Augenstein
     booktitle: Information Processing & Management
-    venue: journal
+    venue: conference
     doc-url: https://arxiv.org/abs/1712.02223
   - layout: paper
     paper-type: inproceedings
