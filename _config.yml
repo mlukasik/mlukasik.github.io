@@ -127,6 +127,26 @@ papers:
     booktitle: KDD 
     venue: conference
     doc-url: https://arxiv.org/pdf/2007.01570.pdf
+    - layout: paper
+    paper-type: inproceedings
+    selected: no
+    year: 2020
+    img: aaai16
+    title: Discourse-aware rumour stance classification in social media using sequential classifiers
+    authors: Arkaitz Zubiaga, Elena Kochkina, Maria Liakata, Rob Procter, Michal Lukasik, Kalina Bontcheva, Trevor Cohn, Isabelle Augenstein
+    booktitle: Information Processing & Management
+    venue: journal
+    doc-url: https://arxiv.org/abs/1712.02223
+  - layout: paper
+    paper-type: inproceedings
+    selected: no
+    year: 2018
+    img: aaai16
+    title: Content explorer: Recommending novel entities for a document writer
+    authors: Michal Lukasik, Richard Zens
+    booktitle: EMNLP 
+    venue: conference
+    doc-url: https://aclanthology.org/D18-1374/
   - layout: paper
     paper-type: inproceedings
     selected: no
