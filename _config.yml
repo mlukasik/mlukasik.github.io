@@ -12,7 +12,7 @@ papers:
     selected: yes
     year: 2025
     img: aaai16
-    title: TRACT: Regression-Aware Fine-tuning Meets Chain-of-Thought Reasoning for LLM-as-a-Judge
+    title: TRACT Regression-Aware Fine-tuning Meets Chain-of-Thought Reasoning for LLM-as-a-Judge
     authors: Cheng-Han Chiang, Hung-yi Lee, Michal Lukasik
     doc-url: https://arxiv.org/abs/2503.04381
     booktitle: preprint
