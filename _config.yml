@@ -147,7 +147,7 @@ papers:
     booktitle: KDD 
     venue: conference
     doc-url: https://arxiv.org/pdf/2007.01570.pdf
-    - layout: paper
+  - layout: paper
     paper-type: inproceedings
     selected: no
     year: 2018
