@@ -72,7 +72,7 @@ papers:
     selected: no
     year: 2023
     img: aaai16
-    title: ResMem: Learn what you can and memorize the rest
+    title: ResMem Learn what you can and memorize the rest
     authors: Zitong Yang, Michal Lukasik, Vaishnavh Nagarajan, Zonglin Li, Ankit Rawat, Manzil Zaheer, Aditya Menon, Sanjiv Kumar
     doc-url: https://arxiv.org/abs/2302.01576
     booktitle: NEURIPS 
