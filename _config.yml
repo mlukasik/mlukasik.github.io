@@ -10,6 +10,26 @@ papers:
   - layout: paper
     paper-type: inproceedings
     selected: yes
+    year: 2025
+    img: aaai16
+    title: TRACT: Regression-Aware Fine-tuning Meets Chain-of-Thought Reasoning for LLM-as-a-Judge
+    authors: Cheng-Han Chiang, Hung-yi Lee, Michal Lukasik
+    doc-url: https://arxiv.org/abs/2503.04381
+    booktitle: preprint
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: 2025
+    img: aaai16
+    title: Better Autoregressive Regression
+    authors: Michal Lukasik, Zhao Meng, Harikrishna Narasimhan, Yin-Wen Chang, Aditya Krishna Menon, Felix Yu, Sanjiv Kumar
+    doc-url: https://openreview.net/forum?id=xGs7Ch3Vyo
+    booktitle: ICLR (spotlight) 
+    venue: conference
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
     year: 2024
     img: aaai16
     title: Regression (and Scoring) Aware Inference with LLMs
