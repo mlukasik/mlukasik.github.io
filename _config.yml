@@ -12,9 +12,9 @@ papers:
     selected: yes
     year: 2025
     img: aaai16
-    title: Bipartite Ranking From Multiple Labels On Loss Versus Label Aggregation
-    authors: Michal Lukasik, Lin Chen, Harikrishna Narasimhan, Aditya Krishna Menon, Wittawat Jitkrittum, Felix X. Yu, Sashank J. Reddi, Gang Fu, Mohammadhossein Bateni, Sanjiv Kumar
-    doc-url: https://arxiv.org/abs/2504.11284
+    title: TRACT Regression-Aware Fine-tuning Meets Chain-of-Thought Reasoning for LLM-as-a-Judge
+    authors: Cheng-Han Chiang, Hung-yi Lee, Michal Lukasik
+    doc-url: https://arxiv.org/abs/2503.04381
     booktitle: preprint
     venue: conference
   - layout: paper
@@ -22,10 +22,10 @@ papers:
     selected: yes
     year: 2025
     img: aaai16
-    title: TRACT Regression-Aware Fine-tuning Meets Chain-of-Thought Reasoning for LLM-as-a-Judge
-    authors: Cheng-Han Chiang, Hung-yi Lee, Michal Lukasik
-    doc-url: https://arxiv.org/abs/2503.04381
-    booktitle: preprint
+    title: Bipartite Ranking From Multiple Labels On Loss Versus Label Aggregation
+    authors: Michal Lukasik, Lin Chen, Harikrishna Narasimhan, Aditya Krishna Menon, Wittawat Jitkrittum, Felix X. Yu, Sashank J. Reddi, Gang Fu, Mohammadhossein Bateni, Sanjiv Kumar
+    doc-url: https://arxiv.org/abs/2504.11284
+    booktitle: ICML 2025
     venue: conference
   - layout: paper
     paper-type: inproceedings
@@ -109,7 +109,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2022
     img: aaai16
     title: Teacher's pet understanding and mitigating biases in distillation
@@ -139,7 +139,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2020
     img: aaai16
     title: Does label smoothing mitigate label noise?
