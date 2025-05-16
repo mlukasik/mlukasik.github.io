@@ -13,7 +13,7 @@ papers:
     year: 2025
     img: aaai16
     title: "TRACT: Regression-Aware Fine-tuning Meets Chain-of-Thought Reasoning for LLM-as-a-Judge"
-    authors: "Cheng-Han Chiang, Hung-yi Lee, **Michal Lukasik**"
+    authors: "Cheng-Han Chiang, Hung-yi Lee, <b>Michal Lukasik<\b>"
     doc-url: https://arxiv.org/abs/2503.04381
     booktitle: ACL (main)
     venue: conference
@@ -23,7 +23,7 @@ papers:
     year: 2025
     img: aaai16
     title: Bipartite Ranking From Multiple Labels On Loss Versus Label Aggregation
-    authors: "**Michal Lukasik**, Lin Chen, Harikrishna Narasimhan, Aditya Krishna Menon, Wittawat Jitkrittum, Felix X. Yu, Sashank J. Reddi, Gang Fu, Mohammadhossein Bateni, Sanjiv Kumar"
+    authors: "<b>Michal Lukasik<\b>, Lin Chen, Harikrishna Narasimhan, Aditya Krishna Menon, Wittawat Jitkrittum, Felix X. Yu, Sashank J. Reddi, Gang Fu, Mohammadhossein Bateni, Sanjiv Kumar"
     doc-url: https://arxiv.org/abs/2504.11284
     booktitle: ICML
     venue: conference
@@ -33,9 +33,9 @@ papers:
     year: 2025
     img: aaai16
     title: Better Autoregressive Regression via Regression-aware Fine-tuning
-    authors: "**Michal Lukasik**, Zhao Meng, Harikrishna Narasimhan, Yin-Wen Chang, Aditya Krishna Menon, Felix Yu, Sanjiv Kumar"
+    authors: "<b>Michal Lukasik<\b>, Zhao Meng, Harikrishna Narasimhan, Yin-Wen Chang, Aditya Krishna Menon, Felix Yu, Sanjiv Kumar"
     doc-url: https://openreview.net/forum?id=xGs7Ch3Vyo
-    booktitle: ICLR (**spotlight**) 
+    booktitle: ICLR (<b>spotlight<\b>) 
     venue: conference
   - layout: paper
     paper-type: inproceedings
@@ -43,7 +43,7 @@ papers:
     year: 2024
     img: aaai16
     title: Regression Aware Inference with LLMs
-    authors: "**Michal Lukasik**, Harikrishna Narasimhan, Aditya Krishna Menon, Felix Yu, Sanjiv Kumar"
+    authors: "<b>Michal Lukasik<\b>, Harikrishna Narasimhan, Aditya Krishna Menon, Felix Yu, Sanjiv Kumar"
     doc-url: https://aclanthology.org/2024.findings-emnlp.799/
     booktitle: EMNLP (findings) 
     venue: conference
@@ -53,7 +53,7 @@ papers:
     year: 2024
     img: aaai16
     title: What do larger image classifiers memorise?
-    authors: "**Michal Lukasik**, Vaishnavh Nagarajan, Ankit Singh Rawat, Aditya Krishna Menon, Sanjiv Kumar"
+    authors: "<b>Michal Lukasik<\b>, Vaishnavh Nagarajan, Ankit Singh Rawat, Aditya Krishna Menon, Sanjiv Kumar"
     doc-url: https://arxiv.org/pdf/2310.05337
     booktitle: TMLR 
     venue: conference
@@ -63,9 +63,9 @@ papers:
     year: 2024
     img: aaai16
     title: "It's an Alignment, Not a Trade-off: Revisiting Bias and Variance in Deep Models"
-    authors: "Lin Chen, **Michal Lukasik**, Wittawat Jitkrittum, Chong You, Sanjiv Kumar"
+    authors: "Lin Chen, <b>Michal Lukasik<\b>, Wittawat Jitkrittum, Chong You, Sanjiv Kumar"
     doc-url: https://arxiv.org/abs/2310.09250
-    booktitle: ICLR (**spotlight**)
+    booktitle: ICLR (<b>spotlight<\b>)
     venue: conference
   - layout: paper
     paper-type: inproceedings
@@ -73,7 +73,7 @@ papers:
     year: 2024
     img: aaai16
     title: Two-stage LLM Fine-tuning with Less Specialization and More Generalization
-    authors: "Yihan Wang, Si Si, Daliang Li, **Michal Lukasik**, Felix Yu, Cho-Jui Hsieh, Inderjit S Dhillon, Sanjiv Kumar"
+    authors: "Yihan Wang, Si Si, Daliang Li, <b>Michal Lukasik<\b>, Felix Yu, Cho-Jui Hsieh, Inderjit S Dhillon, Sanjiv Kumar"
     doc-url: https://arxiv.org/abs/2211.00635
     booktitle: ICLR 
     venue: conference
@@ -83,7 +83,7 @@ papers:
     year: 2023
     img: aaai16
     title: "ResMem: Learn what you can and memorize the rest"
-    authors: "Zitong Yang, **Michal Lukasik**, Vaishnavh Nagarajan, Zonglin Li, Ankit Rawat, Manzil Zaheer, Aditya Menon, Sanjiv Kumar"
+    authors: "Zitong Yang, <b>Michal Lukasik<\b>, Vaishnavh Nagarajan, Zonglin Li, Ankit Rawat, Manzil Zaheer, Aditya Menon, Sanjiv Kumar"
     doc-url: https://arxiv.org/abs/2302.01576
     booktitle: NEURIPS 
     venue: conference
@@ -93,7 +93,7 @@ papers:
     year: 2023
     img: aaai16
     title: Large language models with controllable working memory
-    authors: "Daliang Li, Ankit Singh Rawat, Manzil Zaheer, Xin Wang, **Michal Lukasik**, Andreas Veit, Felix Yu, Sanjiv Kumar"
+    authors: "Daliang Li, Ankit Singh Rawat, Manzil Zaheer, Xin Wang, <b>Michal Lukasik<\b>, Andreas Veit, Felix Yu, Sanjiv Kumar"
     doc-url: https://aclanthology.org/2023.findings-acl.112/
     booktitle: ACL (findings) 
     venue: conference
@@ -103,7 +103,7 @@ papers:
     year: 2023
     img: aaai16
     title: Robust distillation for worst-class performance on the interplay between teacher and student objectives
-    authors: "Serena Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, **Michal Lukasik**, Aditya Krishna Menon"
+    authors: "Serena Wang, Harikrishna Narasimhan, Yichen Zhou, Sara Hooker, <b>Michal Lukasik<\b>, Aditya Krishna Menon"
     doc-url: https://arxiv.org/abs/2010.07447
     booktitle: UAI 
     venue: conference
@@ -113,7 +113,7 @@ papers:
     year: 2022
     img: aaai16
     title: "Teacher's pet: understanding and mitigating biases in distillation"
-    authors: "**Michal Lukasik**, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar"
+    authors: "<b>Michal Lukasik<\b>, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar"
     doc-url: https://openreview.net/pdf?id=ph3AYXpwEb
     booktitle: TMLR 
     venue: journal
@@ -123,7 +123,7 @@ papers:
     year: 2020
     img: aaai16
     title: Semantic Label Smoothing for Sequence to Sequence Problems
-    authors: "**Michal Lukasik**, Himanshu Jain, Aditya Krishna Menon, Seungyeon Kim, Srinadh Bhojanapalli, Felix Yu, Sanjiv Kumar"
+    authors: "<b>Michal Lukasik<\b>, Himanshu Jain, Aditya Krishna Menon, Seungyeon Kim, Srinadh Bhojanapalli, Felix Yu, Sanjiv Kumar"
     doc-url: https://arxiv.org/abs/2010.07447
     booktitle: EMNLP 
     venue: conference
@@ -133,7 +133,7 @@ papers:
     year: 2020
     img: aaai16
     title: Text Segmentation by Cross Segment Attention
-    authors: "**Michal Lukasik**, Boris Dadachev, Gonçalo Simões, Kishore Papineni"
+    authors: "<b>Michal Lukasik<\b>, Boris Dadachev, Gonçalo Simões, Kishore Papineni"
     doc-url: https://arxiv.org/pdf/2004.14535.pdf
     booktitle: EMNLP 
     venue: conference
@@ -143,7 +143,7 @@ papers:
     year: 2020
     img: aaai16
     title: Does label smoothing mitigate label noise?
-    authors: "**Michal Lukasik**, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar"
+    authors: "<b>Michal Lukasik<\b>, Srinadh Bhojanapalli, Aditya Krishna Menon, Sanjiv Kumar"
     doc-url: https://arxiv.org/pdf/2003.02819.pdf
     booktitle: ICML 
     venue: conference
@@ -153,7 +153,7 @@ papers:
     year: 2020
     img: aaai16
     title: Scaling Graph Neural Networks with Approximate PageRank
-    authors: "Aleksandar Bojchevski, Johannes Klicpera, Bryan Perozzi, Amol Kapoor, Martin Blais, Benedek Rózemberczki, **Michal Lukasik**, Stephan Günnemann"
+    authors: "Aleksandar Bojchevski, Johannes Klicpera, Bryan Perozzi, Amol Kapoor, Martin Blais, Benedek Rózemberczki, <b>Michal Lukasik<\b>, Stephan Günnemann"
     booktitle: KDD 
     venue: conference
     doc-url: https://arxiv.org/pdf/2007.01570.pdf
@@ -163,7 +163,7 @@ papers:
     year: 2018
     img: aaai16
     title: Discourse-aware rumour stance classification in social media using sequential classifiers
-    authors: "Arkaitz Zubiaga, Elena Kochkina, Maria Liakata, Rob Procter, **Michal Lukasik**, Kalina Bontcheva, Trevor Cohn, Isabelle Augenstein"
+    authors: "Arkaitz Zubiaga, Elena Kochkina, Maria Liakata, Rob Procter, <b>Michal Lukasik<\b>, Kalina Bontcheva, Trevor Cohn, Isabelle Augenstein"
     booktitle: Information Processing \& Management
     venue: conference
     doc-url: https://arxiv.org/abs/1712.02223
@@ -173,7 +173,7 @@ papers:
     year: 2018
     img: aaai16
     title: Content explorer Recommending novel entities for a document writer
-    authors: "**Michal Lukasik**, Richard Zens"
+    authors: "<b>Michal Lukasik<\b>, Richard Zens"
     booktitle: EMNLP 
     venue: conference
     doc-url: https://aclanthology.org/D18-1374/
@@ -183,7 +183,7 @@ papers:
     year: 2017
     img: aaai16
     title: Longitudinal Modeling of Social Media with Hawkes Process based on Users and Networks
-    authors: "P.K. Srijith, **Michal Lukasik**, Kalina Bontcheva and Trevor Cohn"
+    authors: "P.K. Srijith, <b>Michal Lukasik<\b>, Kalina Bontcheva and Trevor Cohn"
     booktitle: The IEEE/ACM International Conference on Social Networks Analysis and Mining, ASONAM
     booktitle-url: http://asonam.cpsc.ucalgary.ca/2017/
     doc-url: http://asonam.cpsc.ucalgary.ca/2017/
@@ -196,7 +196,7 @@ papers:
     year: 2017
     img: spines2
     title: Computational approach to dendritic spine taxonomy and shape transition analysis 
-    authors: "Grzegorz Bokota, Marta Magnowska, Tomasz Kusmierczyk, **Michal Lukasik**, Matylda Roszkowska, Dariusz Plewczynski"
+    authors: "Grzegorz Bokota, Marta Magnowska, Tomasz Kusmierczyk, <b>Michal Lukasik<\b>, Matylda Roszkowska, Dariusz Plewczynski"
     booktitle: Frontiers in Computational Neuroscience
     booktitle-url: http://journal.frontiersin.org
     code: https://bitbucket.org/3dome/spines
@@ -210,7 +210,7 @@ papers:
     year: 2016
     img: coling2
     title: Stance classification in Rumours as a Sequential Task Exploiting the Tree Structure of Social Media Conversations
-    authors: "Arkaitz Zubiaga, Elena Kochkina, Maria Liakata, Rob Procter, **Michal Lukasik**"
+    authors: "Arkaitz Zubiaga, Elena Kochkina, Maria Liakata, Rob Procter, <b>Michal Lukasik<\b>"
     booktitle: 26th International Conference on Computational Linguistics, COLING
     booktitle-url: http://coling2016.anlp.jp/
     doc-url: http://www.zubiaga.org/publications/files/zubiaga-coling2016-sdqc.pdf
@@ -223,7 +223,7 @@ papers:
     year: 2016
     img: lukasik16acl
     title: Hawkes Processes for Continuous Time Sequence Classification an Application to Rumour Stance Classification in Twitter
-    authors: "**Michal Lukasik**, P. K. Srijith, Duy Vu, Kalina Bontcheva, Arkaitz Zubiaga, Trevor Cohn"
+    authors: "<b>Michal Lukasik<\b>, P. K. Srijith, Duy Vu, Kalina Bontcheva, Arkaitz Zubiaga, Trevor Cohn"
     booktitle: Proceedings of the 54th annual meeting of the Association for Computational Linguistics, ACL
     booktitle-url: http://acl2016.org/
     doc-url: http://aclweb.org/anthology/P/P16/P16-2064.pdf
@@ -237,7 +237,7 @@ papers:
     year: 2016
     img: logacheva16acl
     title: Metrics for Evaluation of Word-level Machine Translation Quality Estimation
-    authors: "Varvara Logacheva, **Michal Lukasik** and Lucia Specia"
+    authors: "Varvara Logacheva, <b>Michal Lukasik<\b> and Lucia Specia"
     booktitle: Proceedings of the 54th annual meeting of the Association for Computational Linguistics, ACL
     booktitle-url: http://acl2016.org/
     doc-url: https://www.aclweb.org/anthology/P/P16/P16-2095.pdf
@@ -250,7 +250,7 @@ papers:
     year: 2016
     img: aaai16
     title: Convolution Kernels for Discriminative Learning from Streaming Text
-    authors: "**Michal Lukasik**, Trevor Cohn"
+    authors: "<b>Michal Lukasik<\b>, Trevor Cohn"
     booktitle: Proceedings of the Thirtieth AAAI Conference. AAAI
     booktitle-url: http://acl2016.org/
     doc-url: http://people.eng.unimelb.edu.au/tcohn/papers/aaai2016_wsup.pdf
@@ -263,7 +263,7 @@ papers:
     year: 2015
     img: D15-1311
     title: Classifying Tweet Level Judgements of Rumours in Social Media
-    authors: "**Michal Lukasik**, Trevor Cohn and Kalina Bontcheva"
+    authors: "<b>Michal Lukasik<\b>, Trevor Cohn and Kalina Bontcheva"
     booktitle: Proceedings of Empirical Methods of Natural Language Processing, EMNLP
     booktitle-url: http://www.emnlp2015.org/
     doc-url: http://staffwww.dcs.shef.ac.uk/people/M.Lukasik/pubs/emnlp2015_1.pdf
@@ -277,7 +277,7 @@ papers:
     year: 2015
     img: D15-1028
     title: Modeling Tweet Arrival Times using Log-Gaussian Cox Processes
-    authors: "**Michal Lukasik**, Srijith Prabhakaran Nair Kusumam, Trevor Cohn and Kalina Bontcheva"
+    authors: "<b>Michal Lukasik<\b>, Srijith Prabhakaran Nair Kusumam, Trevor Cohn and Kalina Bontcheva"
     booktitle: Proceedings of Empirical Methods of Natural Language Processing, EMNLP
     booktitle-url: http://www.emnlp2015.org/
     doc-url: http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP028.pdf
@@ -290,7 +290,7 @@ papers:
     year: 2015
     img: P15-2085
     title: Point process modelling of rumour dynamics in social media
-    authors: "**Michal Lukasik**, Trevor Cohn and Kalina Bontcheva"
+    authors: "<b>Michal Lukasik<\b>, Trevor Cohn and Kalina Bontcheva"
     booktitle: Proceedings of the 53rd annual meeting of the Association for Computational Linguistics, ACL
     booktitle-url: http://acl2015.org
     doc-url: http://www.aclweb.org/anthology/P/P15/P15-2085.pdf
@@ -303,7 +303,7 @@ papers:
     year: 2013
     img: springer13
     title: Hierarchical, Multi-label Classification of Scholarly Publications Modifications of ML-KNN Algorithm
-    authors: "**Michal Lukasik**, Tomasz Kusmierczyk, Lukasz Bolikowski, Hung Son Nguyen"
+    authors: "<b>Michal Lukasik<\b>, Tomasz Kusmierczyk, Lukasz Bolikowski, Hung Son Nguyen"
     booktitle: Intelligent Tools for Building a Scientific Information Platform
     booktitle-url: http://link.springer.com
     doc-url: http://link.springer.com/chapter/10.1007%2F978-3-642-35647-6_22
@@ -317,7 +317,7 @@ papers:
     year: 2012
     img: das12
     title: Evaluation of Features for Author Name Disambiguation Using Linear Support Vector Machines
-    authors: "Piotr Jan Dendek, Lukasz Bolikowski, **Michal Lukasik**"
+    authors: "Piotr Jan Dendek, Lukasz Bolikowski, <b>Michal Lukasik<\b>"
     booktitle: Document Analysis Systems, DAS
     booktitle-url: http://www.ict.griffith.edu.au/das2012/
     doc-url: http://ieeexplore.ieee.org/document/6195410/?reload=true
