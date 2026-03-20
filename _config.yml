@@ -8,6 +8,16 @@ talks:
     video: https://www.youtube.com/watch?v=tJyOeEkWNuU
 papers:
   - layout: paper
+    paper-type: preprint
+    selected: yes
+    year: 2026
+    img: aaai16
+    title: "REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge"
+    authors: "Yasi Zhang, Tianyu Chen, Mingyuan Zhou, Oscar Leong, Ying Nian Wu, <b>Michal Lukasik</b>"
+    doc-url: http://arxiv.org/abs/2603.17145
+    booktitle: arxiv
+    venue: conference
+  - layout: paper
     paper-type: inproceedings
     selected: yes
     year: 2025
@@ -15,7 +25,7 @@ papers:
     title: "TRACT: Regression-Aware Fine-tuning Meets Chain-of-Thought Reasoning for LLM-as-a-Judge"
     authors: "Cheng-Han Chiang, Hung-yi Lee, <b>Michal Lukasik</b>"
     doc-url: https://arxiv.org/abs/2503.04381
-    booktitle: ACL main (to appear)
+    booktitle: ACL main
     venue: conference
   - layout: paper
     paper-type: inproceedings
@@ -25,7 +35,7 @@ papers:
     title: Bipartite Ranking From Multiple Labels On Loss Versus Label Aggregation
     authors: "<b>Michal Lukasik</b>, Lin Chen, Harikrishna Narasimhan, Aditya Krishna Menon, Wittawat Jitkrittum, Felix X. Yu, Sashank J. Reddi, Gang Fu, Mohammadhossein Bateni, Sanjiv Kumar"
     doc-url: https://arxiv.org/abs/2504.11284
-    booktitle: ICML (to appear)
+    booktitle: ICML
     venue: conference
   - layout: paper
     paper-type: inproceedings
