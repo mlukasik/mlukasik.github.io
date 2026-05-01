@@ -8,14 +8,14 @@ talks:
     video: https://www.youtube.com/watch?v=tJyOeEkWNuU
 papers:
   - layout: paper
-    paper-type: preprint
+    paper-type: inproceedings
     selected: yes
     year: 2026
     img: aaai16
     title: "REAL: Regression-Aware Reinforcement Learning for LLM-as-a-Judge"
     authors: "Yasi Zhang, Tianyu Chen, Mingyuan Zhou, Oscar Leong, Ying Nian Wu, <b>Michal Lukasik</b>"
     doc-url: http://arxiv.org/abs/2603.17145
-    booktitle: arxiv
+    booktitle: ICML
     venue: conference
   - layout: paper
     paper-type: inproceedings
