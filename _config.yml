@@ -49,7 +49,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2024
     img: aaai16
     title: Regression Aware Inference with LLMs
@@ -69,7 +69,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2024
     img: aaai16
     title: "It's an Alignment, Not a Trade-off: Revisiting Bias and Variance in Deep Models"
@@ -79,7 +79,7 @@ papers:
     venue: conference
   - layout: paper
     paper-type: inproceedings
-    selected: yes
+    selected: no
     year: 2024
     img: aaai16
     title: Two-stage LLM Fine-tuning with Less Specialization and More Generalization
